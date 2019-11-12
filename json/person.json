@@ -1,0 +1,28 @@
+{
+    "id":"1001",
+    "name":"KSK1",
+    "age":25,
+    "places": [
+        "IND",
+        "USA"
+    ],
+    "images":[
+        {
+           "id":16,
+           "name":"IMG16"
+        },
+        {
+            "id":19,
+            "name":"IMG19"
+         }
+    ],
+    
+    "address": {
+        "streat_name" : "Upper West side",
+         "detail_address" : {
+            "building": 222,
+             "apt_no": 5,
+             "city": "New York"
+         }
+    }
+}
